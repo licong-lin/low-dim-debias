@@ -10,8 +10,8 @@ This repository contains the code for the simulations in the paper "Statistical 
 
 <figure>
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="fig/zero_mean_OLS.png" alt="Figure 1" style="width: 48%; margin-right: 5px;"/>
-    <img src="fig/n_500_d_50_type_hist_inference.png" alt="Figure 2" style="width: 40%; margin-left: 5px;"/>
+    <img src="Figures/zero_mean_OLS.png" alt="Figure 1" style="width: 48%; margin-right: 5px;"/>
+    <img src="Figures/n_500_d_50_type_hist_inference.png" alt="Figure 2" style="width: 40%; margin-left: 5px;"/>
 </figure>
     
 **Left:**  the scaled MSE of the  OLS against the number of adaptive coordinates in an adaptive linear model. **Right:** Histogram of the scaled errors for TALE (our approach) and OLS in an adaptive linear model.
